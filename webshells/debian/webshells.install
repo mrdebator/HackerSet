@@ -1,0 +1,7 @@
+debian/helper-script/* usr/bin/
+asp usr/share/webshells/
+aspx usr/share/webshells/
+cfm usr/share/webshells/
+jsp usr/share/webshells/
+perl usr/share/webshells/
+php usr/share/webshells/

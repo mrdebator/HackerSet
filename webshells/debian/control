@@ -1,0 +1,18 @@
+Source: webshells
+Section: utils
+Priority: extra
+Maintainer: Kali Developers <devel@kali.org>
+Uploaders: Devon Kearns <dookie@kali.org>,
+           Ben Wilson <g0tmi1k@kali.org>
+Build-Depends: debhelper (>= 8.0.0)
+Standards-Version: 3.9.3
+Homepage: https://www.kali.org
+Vcs-Git: https://gitlab.com/kalilinux/packages/webshells.git
+Vcs-Browser: https://gitlab.com/kalilinux/packages/webshells
+
+Package: webshells
+Architecture: all
+Depends: ${misc:Depends}
+Description: Collection of webshells
+ A collection of webshells for ASP, ASPX, CFM,
+ JSP, Perl, and PHP servers.

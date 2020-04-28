@@ -1,0 +1,48 @@
+webshells (1.1+kali6) kali-dev; urgency=medium
+
+  * Add dependents to kali-defaults
+
+ -- Ben Wilson <g0tmi1k@kali.org>  Wed, 17 Jul 2019 12:45:23 +0100
+
+webshells (1.1+kali5) kali-dev; urgency=medium
+
+  * Add symlink to laudanum
+
+ -- Ben Wilson <g0tmi1k@kali.org>  Fri, 21 Jun 2019 19:51:22 +0100
+
+webshells (1.1+kali4) kali-dev; urgency=medium
+
+  * Update helper-script
+
+ -- Ben Wilson <g0tmi1k@kali.org>  Fri, 21 Jun 2019 19:16:36 +0100
+
+webshells (1.1+kali3) kali-dev; urgency=medium
+
+  * Switch helper-script format
+
+ -- Ben Wilson <g0tmi1k@kali.org>  Tue, 11 Jun 2019 16:12:56 +0100
+
+webshells (1.1+kali2) kali-dev; urgency=medium
+
+  * Fix helper-script
+
+ -- Ben Wilson <g0tmi1k@kali.org>  Tue, 11 Jun 2019 06:33:55 +0100
+
+webshells (1.1+kali1) kali-dev; urgency=medium
+
+  * Add helper-script (Closes: 5521)
+  * Move PHP findsocket to its own folder
+
+ -- Ben Wilson <g0tmi1k@kali.org>  Fri, 07 Jun 2019 15:17:42 +0100
+
+webshells (1.1-0kali0) kali-dev; urgency=low
+
+  * Updated qsd-php-backdoor (Closes: 0002360)
+
+ -- Devon Kearns <dookie@kali.org>  Mon, 17 Aug 2015 18:17:59 -0600
+
+webshells (1.0-1kali0) kali; urgency=low
+
+  * Initial release
+
+ -- Devon Kearns <dookie@kali.org>  Mon, 28 Jan 2013 15:49:51 -0700

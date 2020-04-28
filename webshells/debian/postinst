@@ -1,0 +1,10 @@
+#!/bin/sh
+
+## Make symbolic links to folders containing other webshells
+[ -d /usr/share/laudanum ] \
+  && ln -sf /usr/share/laudanum /usr/share/webshells/laudanum
+
+[ -d /usr/share/seclists/Web-Shells ] \
+  && ln -sf /usr/share/seclists/Web-Shells /usr/share/webshells/seclists
+
+exit 0

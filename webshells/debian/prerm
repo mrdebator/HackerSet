@@ -1,0 +1,10 @@
+#!/bin/sh
+
+## Remove the directory symlinks made by postinst
+[ -h /usr/share/webshells/laudanum ] \
+  && rm -f /usr/share/webshells/laudanum
+
+[ -h /usr/share/webshells/seclists ] \
+  && rm -f /usr/share/webshells/seclists
+
+exit 0
