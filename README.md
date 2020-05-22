@@ -12,6 +12,7 @@ A collection of tools and scripts I use for Capture the Flags, HackTheBox, and P
   - linenum.sh for enumerating linux systems
   - caesar.py; custom python script to brute force caesar ciphers (https://github.com/mrdebator/OfflineCaesar)
   - RSA-Decoder.py; custom python script to decode RSA encryption (https://github.com/mrdebator/BabyRSA)
+  - WhereIsBSSID.py; python tool to geolocate devices based on their MAC address
 - dirsearch
   - Added my favorite web enumeration script.
 - webshells
