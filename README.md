@@ -6,6 +6,12 @@ A collection of tools and scripts I use for Capture the Flags, HackTheBox, and P
   - A custom shell script to install security, networking, and penetration testing tools. 
   - Utilizes the `apt` package manager.
   - Script, therefore, works on most Debian, Ubuntu systems.
+- scripts
+  - RCE shell exploit for OpenNetAdmin
+  - Python exploit for redis
+  - linenum.sh for enumerating linux systems
+  - caesar.py; custom python script to brute force caesar ciphers (https://github.com/mrdebator/OfflineCaesar)
+  - RSA-Decoder.py; custom python script to decode RSA encryption (https://github.com/mrdebator/BabyRSA)
 - dirsearch
   - Added my favorite web enumeration script.
 - webshells
