@@ -1,4 +1,5 @@
 #! /bin/bash
+# Author: Ansh Chandnani (mrdebator)
 
 # update current libraries 
 echo 'Updating current libraries...'
