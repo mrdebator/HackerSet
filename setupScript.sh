@@ -119,3 +119,7 @@ cd impacket
 pip install .
 cd ..
 sudo apt-get install -y python3-impacket
+
+# Evil-WinRM
+echo 'Installing evil-winrm'
+gem install evil-winrm
