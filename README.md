@@ -7,7 +7,6 @@ A collection of tools and scripts I use for Capture the Flags, HackTheBox, and P
   - Utilizes the `apt` package manager.
   - Script, therefore, works on most Debian, Ubuntu systems.
   - Installs and configures all prerequisites and dependancies. 
-  - Included Tools:
     
 * *msfConfigure.sh*
   - A custom script to install the metasploit framework. (https://github.com/rapid7/metasploit-framework)
