@@ -81,11 +81,9 @@ cd ./john-jumbo/src
 sudo apt-get install -y ocl-icd-libopencl1 git build-essential
 mkdir /installs && mkdir /installs/apps && cd /installs/apps
 
-git clone https://github.com/hashcat/hashcat.git
+git clone --recurse-submodules https://github.com/hashcat/hashcat.git
 
 cd hashcat
-git submodule update -init
-
 make
 cd ../
 
